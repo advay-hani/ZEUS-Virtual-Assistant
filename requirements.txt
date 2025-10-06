@@ -1,0 +1,23 @@
+# Z.E.U.S. Virtual Assistant Dependencies
+# GUI Framework (built-in with Python, no installation needed)
+# tkinter - included with Python standard library
+
+# AI/ML Dependencies
+transformers==4.35.2
+sentence-transformers==2.2.2
+torch==2.1.1
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Additional utilities
+numpy==1.24.3
+
+# Build and packaging dependencies
+pyinstaller==6.2.0
+Pillow==10.1.0
+
+# Testing dependencies
+pytest==7.4.3
+psutil==5.9.6

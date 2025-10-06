@@ -1,0 +1,30 @@
+Zeus Virtual Assistant User Manual
+
+Overview
+Zeus is an AI-powered virtual assistant designed to help users with various tasks including document analysis, conversational chat, and interactive gaming.
+
+Features
+1. Chat Interface - Engage in natural conversations with the AI assistant
+2. Document Analysis - Upload PDF and Word documents for analysis and Q&A
+3. Interactive Games - Play Tic-Tac-Toe, Connect 4, and Battleship against AI opponents
+
+System Requirements
+- Windows 10 or later
+- 4GB RAM minimum (8GB recommended)
+- 1GB free disk space
+- No internet connection required for operation
+
+Installation
+1. Extract the Zeus application files to your desired location
+2. Run Zeus.exe to start the application
+3. The application will initialize AI models on first use
+
+Usage Instructions
+To use the chat feature, click on the Chat tab and type your message. The AI will respond based on its training and any uploaded document context.
+
+For document analysis, click on the Documents tab, upload a file, and then ask questions about the document content in the chat interface.
+
+Games can be accessed through the Games tab where you can select from three different game options.
+
+Troubleshooting
+If you experience issues, try restarting the application or checking that you have sufficient system resources available.
